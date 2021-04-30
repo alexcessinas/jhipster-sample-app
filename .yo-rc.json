@@ -46,6 +46,9 @@
     "skipFakeData": false,
     "pages": [],
     "nativeLanguage": "en",
-    "entities": ["BankAccount", "Label", "Operation"]
+    "entities": ["BankAccount", "Label", "Operation"],
+    "herokuAppName": "afternoon-temple-63552",
+    "herokuDeployType": "jar",
+    "herokuJavaVersion": "11"
   }
 }
